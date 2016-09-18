@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "GitHub Tweet Button",
   "description": "Adds a tweet button to GitHub.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage_url": "https://github.com/joshbuchea/github-tweet-button",
   "author": "Josh Buchea",
   "permissions": [
