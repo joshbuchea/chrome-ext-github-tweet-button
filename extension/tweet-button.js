@@ -19,6 +19,6 @@
     '</a>' +
   '</li>';
 
-  buttonList.innerHTML += button;
+  buttonList.innerHTML = button + buttonList.innerHTML;
 
 })();
