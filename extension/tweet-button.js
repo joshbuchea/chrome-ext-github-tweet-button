@@ -11,7 +11,7 @@
     var text = document.title + ' ' + document.location.href;
     var twitterURL = 'https://twitter.com/intent/tweet?text=' + encodeURI(text);
     var button = '<li>' +
-      '<a target="_blank" class="btn btn-sm" href="'+twitterURL+'" style="border-top-right-radius: 3px; border-bottom-right-radius: 3px; padding-top: 4px; padding-bottom: 1px; line-height: 18px;" title="Share on Twitter" aria-label="Share on Twitter">' +
+      '<a target="_blank" class="btn btn-sm" href="'+twitterURL+'" style="padding-top: 4px; padding-bottom: 1px; line-height: 18px;" title="Share on Twitter" aria-label="Share on Twitter">' +
         '<span class="octicon" style="margin-top: -1px; margin-left:-2px;">' +
           '<?xml version="1.0" encoding="utf-8"?>' +
           '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="2 2 24 24">' +
@@ -21,7 +21,7 @@
           '&nbsp;Tweet&nbsp;' +
       '</a>' +
     '</li>';
-    
+
     buttonList.innerHTML = button + buttonList.innerHTML;
   }
 
