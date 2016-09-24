@@ -7,7 +7,7 @@
 
 ---
 
-![](https://img.shields.io/badge/Version-0.0.1-blue.svg?style=flat)
+![](https://img.shields.io/badge/Version-0.1.1-blue.svg?style=flat)
 
 A Chrome extension that adds a tweet button to GitHub.
 
