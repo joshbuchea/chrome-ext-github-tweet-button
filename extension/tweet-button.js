@@ -2,6 +2,8 @@
 // GitHub Tweet Button
 //
 
+'use strict';
+
 (function() {
 
   var buttonList = document.querySelector('.pagehead.repohead .pagehead-actions');
