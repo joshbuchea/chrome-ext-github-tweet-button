@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Version-0.2.0-blue.svg?style=flat) [![License](https://img.shields.io/github/license/joshbuchea/chrome-ext-swifttab.svg)](LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-A Chrome extension that adds a tweet button to GitHub repo pages.
+Chrome extension that adds a tweet button to GitHub repo pages.
 
 ## Example
 
