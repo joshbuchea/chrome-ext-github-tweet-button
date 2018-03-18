@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Version-0.2.0-blue.svg?style=flat)
 
-A Chrome extension that adds a tweet button to GitHub.
+A Chrome extension that adds a tweet button to GitHub repo pages.
 
 ## Example
 
